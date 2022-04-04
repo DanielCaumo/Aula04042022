@@ -1,3 +1,0 @@
-Na aula de hoje, trabalharemos renomeando, excluindo, realocando e verificando logs de alteração.git
-
-Meu nome é Daniel
